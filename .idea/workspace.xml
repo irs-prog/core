@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b499e7-650f-49cc-a05b-260368cbd6db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/irs/stream/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/irs/stream/AnimalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/irs/stream/Classification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/com/irs/stream/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/com/irs/stream/AnimalExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core/com/irs/stream/Classification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/irs/stream/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/irs/functional/stream/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/irs/stream/AnimalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/irs/functional/stream/AnimalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/irs/stream/Classification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/irs/functional/stream/Classification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +47,11 @@
   </component>
   <component name="RunManager">
     <configuration name="AnimalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.irs.stream.AnimalExample" />
+      <option name="MAIN_CLASS_NAME" value="com.irs.functional.stream.AnimalExample" />
       <module name="core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.irs.stream.*" />
+          <option name="PATTERN" value="com.irs.functional.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633106894339</updated>
-      <workItem from="1633106902510" duration="2124000" />
+      <workItem from="1633106902510" duration="2350000" />
+      <workItem from="1633178975466" duration="3853000" />
     </task>
     <servers />
   </component>
@@ -87,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

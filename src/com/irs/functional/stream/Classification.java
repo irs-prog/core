@@ -1,4 +1,4 @@
-package com.irs.stream;
+package com.irs.functional.stream;
 
 public enum Classification {
 
